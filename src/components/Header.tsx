@@ -36,13 +36,13 @@ function Header() {
         </div>
         <div>
           <input
-            className="bg-gray-50 border border-gray-300 text-gray-900 sm:text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full pl-14 p-2"
+            className="bg-gray-50 border border-gray-300 text-gray-900 sm:text-sm rounded-lg  focus:border-none block  pl-5 p-2.5"
             type="search"
             placeholder="Search..."
           />
         </div>
         <a href="">
-          <div className=" ">
+          <div className="items-end ">
             <Image
               className=" w-8 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 "
               src="/images/cart-shopping-svgrepo-com.svg"
