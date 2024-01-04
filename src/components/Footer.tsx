@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faTwitter,
@@ -13,9 +14,11 @@ export default function Footer() {
           <div className="md:flex md:justify-between mr-20">
             <div className="mb-6 md:mb-0">
               <a href="/" className="flex items-center">
-                <img
+                <Image
                   src="https://flowbite.com/docs/images/logo.svg"
                   className="h-8 me-3"
+                  width={30}
+                  height={30}
                   alt="FlowBite Logo"
                 />
                 <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
@@ -29,15 +32,15 @@ export default function Footer() {
               <div className="w-32 flex mt-10 mb-10 ">
                 <FontAwesomeIcon
                   icon={faTwitter}
-                  className="text-blue-500 mr-4 hover:cursor-pointer"
+                  className=" mr-4 hover:cursor-pointer"
                 />
                 <FontAwesomeIcon
                   icon={faLinkedin}
-                  className="text-blue-500 mr-4 hover:cursor-pointer"
+                  className=" mr-4 hover:cursor-pointer"
                 />
                 <FontAwesomeIcon
                   icon={faFacebook}
-                  className="text-blue-700 hover:cursor-pointer"
+                  className=" hover:cursor-pointer"
                 />
               </div>
             </div>
