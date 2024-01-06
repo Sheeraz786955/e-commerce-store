@@ -59,8 +59,18 @@ export default function Head() {
           </div>
         </div>
       </div>
-      <div className="w-1/2">
-        <div className="w-3/4 bg-[#ffece3] h-3/4 rounded-full mt-10 mb-10 pb-52 pt-52"></div>
+      <div className="w-1/2 relative">
+        <div className="w-4/5 bg-[#ffece3] h-[85%] rounded-full mt-10 mb-10 pb-52 pt-52 ">
+          <div className="absolute top-0 w-[93%]">
+            <Image
+              className="h-full w-full"
+              src="/images/header.webp"
+              width={500}
+              height={500}
+              alt="not fount"
+            />
+          </div>
+        </div>
       </div>
     </div>
   );

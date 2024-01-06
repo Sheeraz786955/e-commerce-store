@@ -9,15 +9,12 @@ export default function Head() {
             className="flex items-center space-x-3 rtl:space-x-reverse"
           >
             <Image
-              src="https://flowbite.com/docs/images/logo.svg"
-              className="h-8"
-              width={30}
+              src="/images/logo.webp"
+              className="h-8 me-3"
+              width={180}
               height={30}
-              alt="Flowbite Logo"
+              alt="FlowBite Logo"
             />
-            <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-              Dine Market
-            </span>
           </a>
           <div className="flex md:order-2">
             <div className="relative hidden md:block">
