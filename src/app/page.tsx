@@ -3,6 +3,7 @@ import Head from "@/components/Head";
 import Promotion from "@/components/Promotion";
 import Products from "@/components/Products";
 import Quality from "@/components/Quality";
+import Newsletter from "@/components/Newsletter";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       <Promotion />
       <Products />
       <Quality />
+      <Newsletter />
     </main>
   );
 }

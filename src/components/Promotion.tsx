@@ -26,7 +26,7 @@ export default function Promotion() {
               />
             </div>
           </div>
-          <div className="text-center m-auto bg-black text-white px-[108px] py-10 mt-5">
+          <div className="text-center m-auto bg-black text-white px-[101px] py-10 mt-5">
             <h1 className="font-extrabold text-4xl mb-5">GET 30% Off</h1>
             <p>USE PROMO CODE</p>
             <div className="w-80 bg-slate-500 text-white text-center whitespace-pre mt-1 rounded-sm py-2 font-semibold hover:cursor-pointer">
