@@ -19,7 +19,7 @@ export default function Promotion() {
             </div>
             <div className="pr-10">
               <Image
-                src="/images/event1.webp"
+                src="/event1.webp"
                 width={250}
                 height={300}
                 alt="not found:"
@@ -43,7 +43,7 @@ export default function Promotion() {
             </div>
             <div>
               <Image
-                src="/images/event2.webp"
+                src="/event2.webp"
                 width={280}
                 height={300}
                 alt="Not Fount"
@@ -60,7 +60,7 @@ export default function Promotion() {
             </div>
             <div>
               <Image
-                src="/images/event3.webp"
+                src="/event3.webp"
                 width={270}
                 height={300}
                 alt="Not Fount"

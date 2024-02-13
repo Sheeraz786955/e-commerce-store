@@ -42,7 +42,7 @@ export default function Quality() {
               <div className="w-72">
                 <Image
                   className="w-full h-auto"
-                  src="/images/feature.webp"
+                  src="/feature.webp"
                   alt="not found"
                   width={220}
                   height={100}

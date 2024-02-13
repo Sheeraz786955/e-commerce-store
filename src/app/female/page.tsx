@@ -14,7 +14,7 @@ export default function Female() {
             <div className="flex flex-wrap justify-evenly pt-20 ">
                 <div>
                     <Card className=" w-72 hover:cursor-pointer">
-                        <CardContent><Image className="w-full h-auto" src="/images/pro1.png" width={500} height={500} alt="not found" /></CardContent>
+                        <CardContent><Image className="w-full h-auto" src="/pro1.png" width={500} height={500} alt="not found" /></CardContent>
                         <CardContent>
                             <CardDescription className="font-extrabold text-base" >Brushed Raglan Sweatshirt
                             </CardDescription>
@@ -25,7 +25,7 @@ export default function Female() {
                 </div>
                 <div>
                     <Card className=" w-72 hover:cursor-pointer">
-                        <CardContent><Image className="w-full h-auto" src="/images/f7.png" width={200} height={100} alt="not found" /></CardContent>
+                        <CardContent><Image className="w-full h-auto" src="/f7.png" width={200} height={100} alt="not found" /></CardContent>
                         <CardContent>
                             <CardDescription className="font-extrabold text-base" >Cameryn Sash Tie Dress
                             </CardDescription>
@@ -36,7 +36,7 @@ export default function Female() {
                 </div>
                 <div>
                     <Card className=" w-72 hover:cursor-pointer">
-                        <CardContent><Image className="w-full h-auto" src="/images/f8.png" width={200} height={100} alt="not found" /></CardContent>
+                        <CardContent><Image className="w-full h-auto" src="/f8.png" width={200} height={100} alt="not found" /></CardContent>
                         <CardContent>
                             <CardDescription className="font-extrabold text-base" >Flex Sweatshirt
                             </CardDescription>
@@ -47,7 +47,7 @@ export default function Female() {
                 </div>
                 <div>
                     <Card className=" w-72 hover:cursor-pointer">
-                        <CardContent><Image className="w-full h-auto" src="/images/f1.png" width={200} height={100} alt="not found" /></CardContent>
+                        <CardContent><Image className="w-full h-auto" src="/f1.png" width={200} height={100} alt="not found" /></CardContent>
                         <CardContent>
                             <CardDescription className="font-extrabold text-base" >Flex Sweatpants
                             </CardDescription>
@@ -61,7 +61,7 @@ export default function Female() {
             <div className="flex flex-wrap justify-evenly pt-16 ">
                 <div>
                     <Card className=" w-72 hover:cursor-pointer">
-                        <CardContent><Image className="w-full h-auto" src="/images/f2.png" width={500} height={500} alt="not found" /></CardContent>
+                        <CardContent><Image className="w-full h-auto" src="/f2.png" width={500} height={500} alt="not found" /></CardContent>
                         <CardContent>
                             <CardDescription className="font-extrabold text-base" >Pink Fleece Sweatpants
                             </CardDescription>
@@ -72,7 +72,7 @@ export default function Female() {
                 </div>
                 <div>
                     <Card className=" w-72 hover:cursor-pointer">
-                        <CardContent><Image className="w-full h-auto" src="/images/f3.png" width={200} height={100} alt="not found" /></CardContent>
+                        <CardContent><Image className="w-full h-auto" src="/f3.png" width={200} height={100} alt="not found" /></CardContent>
                         <CardContent>
                             <CardDescription className="font-extrabold text-base" >Lite Sweatpants
                             </CardDescription>
@@ -83,7 +83,7 @@ export default function Female() {
                 </div>
                 <div>
                     <Card className=" w-72 hover:cursor-pointer">
-                        <CardContent><Image className="w-full h-auto" src="/images/f4.png" width={200} height={100} alt="not found" /></CardContent>
+                        <CardContent><Image className="w-full h-auto" src="/f4.png" width={200} height={100} alt="not found" /></CardContent>
                         <CardContent>
                             <CardDescription className="font-extrabold text-base" >Imperial Alpaca Hoodie
                             </CardDescription>
@@ -94,7 +94,7 @@ export default function Female() {
                 </div>
                 <div>
                     <Card className=" w-72 hover:cursor-pointer">
-                        <CardContent><Image className="w-full h-auto" src="/images/f5.png" width={200} height={100} alt="not found" /></CardContent>
+                        <CardContent><Image className="w-full h-auto" src="/f5.png" width={200} height={100} alt="not found" /></CardContent>
                         <CardContent>
                             <CardDescription className="font-extrabold text-base" >Muscle Tank
                             </CardDescription>
@@ -110,7 +110,7 @@ export default function Female() {
             <div className="flex flex-wrap justify-evenly pt-16 pb-24">
                 <div>
                     <Card className=" w-72 hover:cursor-pointer">
-                        <CardContent><Image className="w-full h-auto" src="/images/f6.png" width={500} height={500} alt="not found" /></CardContent>
+                        <CardContent><Image className="w-full h-auto" src="/f6.png" width={500} height={500} alt="not found" /></CardContent>
                         <CardContent>
                             <CardDescription className="font-extrabold text-base" >Brushed Bomber
                             </CardDescription>

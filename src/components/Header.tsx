@@ -10,7 +10,7 @@ export default function Head() {
             className="flex items-center space-x-3 rtl:space-x-reverse"
           >
             <Image
-              src="/images/logo.webp"
+              src="/logo.webp"
               className="h-8 me-3"
               width={180}
               height={30}
@@ -47,7 +47,7 @@ export default function Head() {
             <div className="ml-5 ">
               <Image
                 className=" w-8 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 "
-                src="/images/cart-shopping-svgrepo-com.svg"
+                src="/cart-shopping-svgrepo-com.svg"
                 alt=""
                 width={500}
                 height={500}

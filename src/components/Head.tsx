@@ -27,7 +27,7 @@ export default function Head() {
         <div className="flex w-3/4 justify-between">
           <div>
             <Image
-              src="/images/Featured1.png"
+              src="/Featured1.png"
               width={100}
               height={100}
               alt="not"
@@ -35,7 +35,7 @@ export default function Head() {
           </div>
           <div>
             <Image
-              src="/images/Featured2.png"
+              src="/Featured2.png"
               width={100}
               height={100}
               alt="not"
@@ -43,7 +43,7 @@ export default function Head() {
           </div>
           <div>
             <Image
-              src="/images/Featured3.png"
+              src="/Featured3.png"
               width={100}
               height={100}
               alt="not"
@@ -51,7 +51,7 @@ export default function Head() {
           </div>
           <div>
             <Image
-              src="/images/Featured4.png"
+              src="/Featured4.png"
               width={100}
               height={100}
               alt="not"
@@ -64,7 +64,7 @@ export default function Head() {
           <div className="absolute top-0 w-[93%]">
             <Image
               className="h-full w-full"
-              src="/images/header.webp"
+              src="/header.webp"
               width={500}
               height={500}
               alt="not fount"
