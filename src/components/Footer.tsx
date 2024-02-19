@@ -15,7 +15,7 @@ export default function Footer() {
             <div className="mb-6 md:mb-0">
               <a href="/" className="flex items-center">
                 <Image
-                  src="/logo.webp"
+                  src="/logo.png"
                   className="h-8 me-3"
                   width={180}
                   height={30}

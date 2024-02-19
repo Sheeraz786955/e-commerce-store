@@ -10,7 +10,7 @@ export default function Head() {
             className="flex items-center space-x-3 rtl:space-x-reverse"
           >
             <Image
-              src="/logo.webp"
+              src="/logo.png"
               className="h-8 me-3"
               width={180}
               height={30}
