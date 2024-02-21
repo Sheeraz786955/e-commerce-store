@@ -8,7 +8,7 @@ import {
     CardTitle,
 } from "@/components/ui/card"
 
-export default function Female() {
+export default function AllProducts() {
     return (
         <div>
             <div className="flex flex-wrap justify-evenly pt-20 ">
